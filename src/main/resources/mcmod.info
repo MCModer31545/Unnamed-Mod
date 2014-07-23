@@ -1,0 +1,21 @@
+[
+{
+  "modid": "UnnamedMod",
+  "name": "Unnamed Mod",
+  "description": "Unnamed Mod,Unnamed Ideas. I still don't know what will come out of it.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "MCModerPL"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
