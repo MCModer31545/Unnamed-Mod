@@ -1,10 +1,11 @@
-package com.MCModer31545.unnamedmod.item;
+package com.mcmoder31545.unnamedmod.item;
 
 
-public class ItemUEUBattery extends ItemUnnamedMod
+public class ItemUEUEnergyCell extends ItemUnnamedMod
 {
-    public ItemUEUBattery()
+    public ItemUEUEnergyCell()
     {
         super();
+        this.setUnlocalizedName("ueuEnergyCell");
     }
 }

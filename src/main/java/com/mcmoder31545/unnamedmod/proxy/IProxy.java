@@ -1,4 +1,4 @@
-package com.MCModer31545.unnamedmod.proxy;
+package com.mcmoder31545.unnamedmod.proxy;
 
 
 public interface IProxy {

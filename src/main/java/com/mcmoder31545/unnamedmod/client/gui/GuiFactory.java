@@ -1,4 +1,4 @@
-package com.MCModer31545.unnamedmod.client.gui;
+package com.mcmoder31545.unnamedmod.client.gui;
 
 
 import cpw.mods.fml.client.IModGuiFactory;
@@ -17,7 +17,7 @@ public class GuiFactory implements IModGuiFactory
 
     @Override
     public Class<? extends GuiScreen> mainConfigGuiClass() {
-        return null;
+        return ModGuiConfig.class;
     }
 
     @Override
